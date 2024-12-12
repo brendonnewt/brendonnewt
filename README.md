@@ -3,9 +3,9 @@
 I'm currently pursuing my Bachelor's in Computer Science at Baylor University :bear:. I like software design, consulting, and building custom software.
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brendonnewt&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonnewt&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=brendonnewt&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brendonnewt&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonnewt&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=svelte,html,css">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=brendonnewt&theme=vue-dark&hide_border=true&background=FFFFFF00">
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
