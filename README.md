@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Brendon Newton,
 
-I'm currently pursuing my Bachelor's in Computer Science at Baylor University :bear:. I like software design, consulting, and building custom software.
+I'm currently pursuing my Bachelor's in Computer Science at Baylor University :bear:. I like software design, consulting, and building custom software. Most of my projects are made in Java with Spring Boot, but I've recently started branching out into web development using frameworks like React and Flask.
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brendonnewt&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
