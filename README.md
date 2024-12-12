@@ -12,4 +12,5 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University :b
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/brendonnewton/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:brendonnewton0@gmail.com?subject=Hello%20Brendon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:brendon_newton1@baylor.edu?subject=Hello%20Brendon,%20From%20Github"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
