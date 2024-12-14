@@ -28,7 +28,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University :b
 ### :school: School Projects
 
 * [Hotel Service](https://github.com/brendonnewt/GROUP-FIVE-Hotel-Project): A Java-based hotel landing page with Swing front-end, enabling room bookings.
-* [SeaQuail](https://github.com/brendonnewt/SeaQuail): A Python + Flask project leveraging the Lahman baseball database to solve [Immaculate Grid](https://www.immaculategrid.com/) questions, provide yearly Team Summaries with Depth Charts, and provide individal Player, Team, and League stats.
+* [SeaQuail](https://github.com/brendonnewt/SeaQuail): A Python + Flask project leveraging the Lahman baseball database to solve [Immaculate Grid](https://www.immaculategrid.com/) questions, provide yearly Team Summaries with Depth Charts, and provide individual Player, Team, and League stats.
 * [WOOFAdoptionService](https://github.com/brendonnewt/WOOFAdoptionService): A pet adoption website with a React and Next.js front-end and Java Spring Boot backend, hosted on GCP for CI/CD.
 
 ### :bulb: Personal Projects
