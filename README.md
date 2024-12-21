@@ -9,19 +9,9 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University :b
 </p>
 
 
+
 ## 🧰  My Toolbox
-<div>
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="JavaScript" width="50" height="50"/> &nbsp;
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" alt="NodeJS" width="50" height="50"/> &nbsp; 
-  <img src="https://icongr.am/devicon/react-original.svg?size=50&color=currentColor" alt="ReactJS" width="50" height="50"/> &nbsp; 
-  <img src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor" alt="HTML5" width="50" height="50"/> &nbsp;
-  <img src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor" alt="CSS3" width="50" height="50"/>
-  <img src="https://icongr.am/devicon/c-original.svg?size=50&color=currentColor" alt="C" width="50" height="50" />
-  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor" alt="C++" width="50" height="50" />
-  <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" alt="MySQL" width="50" height="50" />
-  <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" alt="Python" width="50" height="50" />
-  <img src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor" alt="Java" width="50" height="50" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,c,cpp,mysql,python,java,rust)](https://skillicons.dev)
 
 &nbsp;
 
