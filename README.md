@@ -1,19 +1,26 @@
-## Hi there! 👋 I'm Brendon Newton,
+<div align="left">
+<img align="right" width="300" src="https://media.giphy.com/media/XiF35bhJBIg8b30ANZ/giphy.gif?cid=ecf05e47w8wgs6kgdgy6fbj61u56x1xaw1ib62dfvl44tb5z&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 
-I'm currently pursuing my Bachelor's in Computer Science at Baylor University :bear:. I like software design, consulting, and building custom software. Most of my projects are made in Java with Spring Boot, but I've recently started branching out into web development using frameworks like React and Flask.
+### 👋 Hi there! I'm Brendon
+
+I'm currently pursuing my Bachelor's in Computer Science at Baylor University 🐻. I like software design, consulting, and building custom software. Most of my projects are made in Java with Spring Boot, but I've recently started branching out into web development using frameworks like React and Flask.
+</div>
+
+&nbsp;&nbsp;&nbsp;
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brendonnewt&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonnewt&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&hide=svelte,html,css,makefile,dockerfile,shell,c">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brendonnewt&theme=vue-dark&hide_border=true&background=FFFFFF00"/>
 </p>
-
-
 
 ## 🧰  My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,c,cpp,mysql,python,java,rust)](https://skillicons.dev)
 
 &nbsp;
+
+<div align="center">
+  <img width="400" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd2eGMzYjJlcDhyZWEzcWF4NnZ2MzQ3ZTlhN2J3eWZ6Z2xpb3dxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IThjAlJnD9WNO/giphy.gif" />
+</div>
 
 ### :school: School Projects
 
@@ -32,5 +39,6 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University :b
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/brendonnewton/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:brendonnewton0@gmail.com?subject=Hello%20Brendon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brendon_newton1@baylor.edu?subject=Hello%20Brendon,%20From%20Github"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:brendon_newton1@baylor.edu?subject=Hello%20Brendon,%20From%20Github"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=windows&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.instagram.com/brendon_t_newton/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
