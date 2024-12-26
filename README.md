@@ -34,6 +34,8 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University �
 * [Algorithm Visualizer](https://github.com/brendonnewt/algorithm-visualizer): A small React frontend + Rust backend API I made to get some practice with APIs and pick up both React and Rust. This application takes input from the user and displays each step of an algorithm executing on it.
 
 &nbsp;
+### 🔧 Currently Working On...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brendonnewt&repo=Bounce)](https://github.com/brendonnewt/Bounce)
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
