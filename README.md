@@ -30,7 +30,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University ðŸ
 
 ### :bulb: Personal Projects
 
-* [Trampoline Calculator](https://github.com/brendonnewt/trampoline-calculator): A Flask + Javascript application that can calculate the difficulty values of any combination of skills. It can also save combinations of skills for later use.
+* [Trampoline Calculator](https://github.com/brendonnewt/trampoline-calculator): A Flask + Javascript application that can calculate the difficulty values of any combination of skills. It can also save combinations of skills for later use. (Based on the 2020-2024 COP)
 * [Algorithm Visualizer](https://github.com/brendonnewt/algorithm-visualizer): A small React frontend + Rust backend API I made to get some practice with APIs and pick up both React and Rust. This application takes input from the user and displays each step of an algorithm executing on it.
 
 &nbsp;
