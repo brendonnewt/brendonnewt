@@ -3,7 +3,7 @@
 
 ### 👋 Hi there! I'm Brendon
 
-I'm currently pursuing my Bachelor's in Computer Science at Baylor University 🐻. I like software design, consulting, and building custom software. Most of my projects are made in Java with Spring Boot, but I've recently started branching out into web development using frameworks like React and Flask.
+I'm currently pursuing my Bachelor's in Computer Science. I like software design, consulting, and building custom software. Most of my projects are made in Java with Spring Boot, but I've recently started branching out into web development using frameworks like React and Flask.
 </div>
 
 &nbsp;&nbsp;&nbsp;
@@ -24,6 +24,7 @@ I'm currently pursuing my Bachelor's in Computer Science at Baylor University �
 
 ### :school: School Projects
 
+* [QUIC Messaging](https://github.com/brendonnewt/quic-messaging): A Rust-based live messaging TUI built using QUIC
 * [Hotel Service](https://github.com/brendonnewt/GROUP-FIVE-Hotel-Project): A Java-based hotel landing page with Swing front-end, enabling room bookings.
 * [SeaQuail](https://github.com/brendonnewt/SeaQuail): A Python + Flask project leveraging the Lahman baseball database to solve [Immaculate Grid](https://www.immaculategrid.com/) questions, provide yearly Team Summaries with Depth Charts, and provide individual Player, Team, and League stats.
 * [WOOFAdoptionService](https://github.com/brendonnewt/WOOFAdoptionService): A pet adoption website with a React and Next.js front-end and Java Spring Boot backend, hosted on GCP for CI/CD.
