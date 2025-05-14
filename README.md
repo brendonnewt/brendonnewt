@@ -10,7 +10,7 @@ I'm currently pursuing my Bachelor's in Computer Science. I like software design
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brendonnewt&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonnewt&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&hide=svelte,html,css,makefile,dockerfile,shell,c">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonnewt&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&hide=svelte,html,css,makefile,dockerfile,shell,c&cache_seconds=86400">
 </p>
 
 ## 🧰  My Toolbox
