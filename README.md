@@ -3,7 +3,7 @@
 
 ### Hi there! I'm Brendon
 
-I have a Bachelor's degree in Computer Science, and I like software design, consulting, and building custom software. Most of my projects are made in Java with Spring Boot, but I've recently started branching out into web development using frameworks like React and Flask.
+I have a BS in Computer Science and I like software design, consulting, and building custom software. I tend to work on projects centered around API development and web applications, but I've also experimented with lower level engineering as well! My best work is done when working for others, so most of my projects are centered around finding a problem, defining requirements, and creating a solution.
 </div>
 
 &nbsp;&nbsp;&nbsp;
@@ -21,6 +21,7 @@ I have a Bachelor's degree in Computer Science, and I like software design, cons
 * [Hotel Service](https://github.com/brendonnewt/GROUP-FIVE-Hotel-Project): A Java-based hotel landing page with Swing front-end, enabling room bookings.
 * [SeaQuail](https://github.com/brendonnewt/SeaQuail): A Python + Flask project leveraging the Lahman baseball database to solve [Immaculate Grid](https://www.immaculategrid.com/) questions, provide yearly Team Summaries with Depth Charts, and provide individual Player, Team, and League stats.
 * [WOOFAdoptionService](https://github.com/brendonnewt/WOOFAdoptionService): A pet adoption website with a React and Next.js front-end and Java Spring Boot backend, hosted on GCP for CI/CD.
+* [MarketOS](https://github.com/brendonnewt/CSI43C9-farmers-market): A Tauri app with a Spring Boot backend that stores farmers market data and provides visualizations and reporting for market sales, SNAP, DUFB, and custom created columns.
 
 ### Personal Projects
 
